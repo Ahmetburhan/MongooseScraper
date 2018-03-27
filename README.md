@@ -1,6 +1,7 @@
 # **MongoDB/Mongoose NYT web-scraper**
 
 ### To view the deployed version, _**[click here!]
+(https://github.com/Ahmetburhan/MongooseScraper/)
 
 ## Functionality
 On the backend, the app uses `express` to serve routes and `mongoose` to interact with a `MongoDB` database.
