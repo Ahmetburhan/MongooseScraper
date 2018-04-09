@@ -2,6 +2,8 @@
 
 ### To view the deployed version, _**[click here!]
 https://mongo-scraper-cheerio.herokuapp.com/
+
+![Demo](/out.gif?raw=true "Demo of Mongo Scraper")
 ## Functionality
 On the backend, the app uses `express` to serve routes and `mongoose` to interact with a `MongoDB` database.
 
