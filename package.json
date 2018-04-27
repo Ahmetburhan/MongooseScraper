@@ -3,12 +3,7 @@
   "version": "1.0.0",
   "description": "A web scraping app that uses mongo for storage",
   "main": "server.js",
-  "author": "Marco Principio",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/m081779/mongo-scraper/issues"
-  },
-  "homepage": "https://github.com/m081779/mongo-scraper#readme",
+}
   "dependencies": {
     "body-parser": "^1.18.2",
     "cheerio": "^1.0.0-rc.2",
